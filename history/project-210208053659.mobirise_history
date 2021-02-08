@@ -62,7 +62,7 @@
       }
     ],
     "uniqCompNum": 146,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "",
@@ -83,7 +83,9 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
