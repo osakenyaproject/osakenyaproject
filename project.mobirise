@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "osakenyaproject.com",
-    "currentPage": "page18.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,13 +52,21 @@
         "css": "'Paytone One', sans-serif",
         "name": "Paytone One",
         "url": "https://fonts.googleapis.com/css?family=Paytone+One:400"
+      },
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
     "uniqCompNum": 84,
-    "versionPublish": "4.10.8",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
