@@ -53,10 +53,10 @@
     "gdpr": false,
     "cookiesAlert": {
       "customDialogSelector": false,
-      "colorText": "#caff00",
-      "colorBg": "#465052",
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
       "colorButton": "",
-      "colorLink": "#ff3366",
+      "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
